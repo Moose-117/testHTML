@@ -1,0 +1,11 @@
+{
+  "name": "myhtml-app",
+  "version": "1.0.0",
+  "description": "A simple HTML, CSS, and JS app",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build process for HTML/CSS/JS app'"
+  },
+  "author": "",
+  "license": "ISC"
+}
